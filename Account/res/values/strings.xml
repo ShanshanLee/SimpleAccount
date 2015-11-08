@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">账本</string>
+    <string name="home">首页</string>
+    <string name="add">新建</string>
+    <string name="account">账单</string>
+    <string name="action_settings">Settings</string>
+    <string name="month_account">本月支出</string>
+    <string name="money_hint">0</string>
+    <string name="account_this_month">本月账单</string>
+    <string name="account_all">全部账单</string>
+    <string name="view_account">查看账单</string>
+    <!-- 账目信息 -->
+    <string name="account_name">账目名称</string>
+    <string name="account_category">账目类别</string>
+    <string name="account_spending">账目金额</string>
+    <string name="account_time">账目时间</string>
+    <string name="account_note">账目备注</string>
+
+    <!-- 账目类别 -->
+    <string name="food_spending">日常食品</string>
+    <string name="emotion_spending">人情世故</string>
+    <string name="business_spending">出差旅行</string>
+    <string name="close_spending">服饰鞋帽</string>
+    <string name="goods_spending">日常物品</string>
+    <string name="yuan">元</string>
+    <!-- 删除 -->
+    <string name="delete_dialog">您确定删除此项记录吗？</string>
+    <string name="promot">提示</string>
+    <string name="ok">确定</string>
+    <string name="cancle">取消</string>
+
+</resources>

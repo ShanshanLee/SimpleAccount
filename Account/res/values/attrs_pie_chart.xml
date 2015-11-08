@@ -1,0 +1,6 @@
+<resources>
+    <declare-styleable name="PieChart">
+        <attr name="Radius" format="dimension" />
+        <attr name="Background" format="color" />
+    </declare-styleable>
+</resources>
